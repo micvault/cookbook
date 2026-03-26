@@ -1,7 +1,8 @@
 ---
 layout: home
 title: 🏠 Home
-nav_order: 1    
+nav_order: 1
+has_divider: false
 ---
 
 # Welcome to Cookbook
